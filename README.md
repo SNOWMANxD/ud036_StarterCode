@@ -10,4 +10,4 @@ Python 2.7+
 2. Open the Terminal and locate the destination of the previously downloaded files.
 3. Run the file "entertainment_center.py" with "python entertainment_center.py" via Terminal.
 4. Enjoy the "magic".
-5. Cumbersome. (it really is my favorite word...
+5. Cumbersome. (it really is my favorite word...)
