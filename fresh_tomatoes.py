@@ -56,6 +56,10 @@ main_page_head = '''
             top: 0;
             background-color: white;
         }
+        .copyright {
+            width: 100%;
+            text-align: center;
+        }
     </style>
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
@@ -115,6 +119,7 @@ main_page_content = '''
     <div class="container">
       {movie_tiles}
     </div>
+    <div class="copyright">"Fresh Tomatoes"-Template provided by <a href="http://www.udacity.com" target="_blank">Udacity.com</a></div>
   </body>
 </html>
 '''
